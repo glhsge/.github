@@ -1,26 +1,26 @@
-# GLHSGE Organization
+# GLHS ᲡᲐᲥᲐᲠᲗᲕᲔᲚᲝᲡ ᲘᲣᲠᲘᲡᲢᲗᲐ ᲣᲛᲐᲦᲚᲔᲡᲘ ᲡᲙᲝᲚᲐ
 
-Welcome to the GitHub repository for the GLHSGE organization.
+ᲛᲝᲒᲔᲡᲐᲚᲛᲔᲑᲘᲗ ᲩᲕᲔᲜᲘ ᲝᲠᲒᲐᲜᲘᲖᲐᲪᲘᲘᲡ ᲛᲗᲐᲕᲐᲠ ᲠᲔᲞᲝᲖᲘᲢᲝᲠᲨᲘ.
 
-## About Us
+## ᲩᲕᲔᲜᲡ ᲨᲔᲡᲐᲮᲔᲑ
 
-GLHSGE is a community of passionate developers working on various open-source projects. Our goal is to...
+GLHS  ᲐᲠᲘᲡ ᲡᲐᲒᲐᲜᲛᲐᲜᲐᲗᲚᲔᲑᲚᲝ ᲝᲠᲒᲐᲜᲘᲖᲐᲪᲘᲐ
 
-## Our Projects
+## ᲩᲕᲔᲜᲘ ᲞᲠᲝᲔᲥᲢᲔᲑᲘ
 
 - [Project 1](link-to-repo): A brief description of Project 1.
 - [Project 2](link-to-repo): A brief description of Project 2.
 
-## Our Team
+## ᲩᲕᲔᲜᲘ ᲒᲣᲜᲓᲘ
 
 Meet the people behind GLHSGE:
 
-- John Doe: Project Lead
-- Jane Smith: Developer
+- ᲐᲕᲗᲝ ᲤᲐᲜᲒᲐᲜᲘ: Project Lead
+- ᲐᲕᲗᲝ ᲤᲐᲜᲒᲐᲜᲘ: Developer
 
-## Contact Us
+## ᲓᲐᲒᲕᲘᲙᲐᲕᲨᲘᲠᲓᲘᲗ
 
-For any inquiries, please contact us at info@glhs.ge
+For any inquiries, please contact us at admin.din.ge
 
 ## Contribution Guidelines
 
