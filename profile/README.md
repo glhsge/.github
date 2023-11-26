@@ -20,7 +20,7 @@ Meet the people behind GLHSGE:
 
 ## Contact Us
 
-For any inquiries, please contact us at contact@glhsge.org.
+For any inquiries, please contact us at info@glhs.ge
 
 ## Contribution Guidelines
 
